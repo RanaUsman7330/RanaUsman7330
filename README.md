@@ -106,6 +106,18 @@ My personal site with a growing set of **free web tools** for developers and mar
   <img src="https://img.shields.io/badge/UI%2FUX_Design-A855F7?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
+## 🏙️ My Contribution Skyline
+
+<p align="center"><i>A real estate developer's GitHub: every commit adds a floor.</i></p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RanaUsman7330/RanaUsman7330/main/profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RanaUsman7330/RanaUsman7330/main/profile-3d-contrib/profile-season-animate.svg" />
+    <img src="https://raw.githubusercontent.com/RanaUsman7330/RanaUsman7330/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution skyline" />
+  </picture>
+</p>
+
 ## 📊 GitHub Stats
 
 <p align="center">
