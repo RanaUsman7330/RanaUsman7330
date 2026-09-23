@@ -65,8 +65,12 @@ I started out with **six years as a UI/UX and graphic designer**, so I care as m
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RanaUsman7330&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanaUsman7330&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8" alt="Top languages" />
+  <img src="https://raw.githubusercontent.com/RanaUsman7330/RanaUsman7330/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Profile details" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RanaUsman7330/RanaUsman7330/main/profile-summary-card-output/tokyonight/3-stats.svg" height="180" alt="Stats" />
+  <img src="https://raw.githubusercontent.com/RanaUsman7330/RanaUsman7330/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="180" alt="Most commit language" />
 </p>
 
 <p align="center">
@@ -74,7 +78,11 @@ I started out with **six years as a UI/UX and graphic designer**, so I care as m
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RanaUsman7330&bg_color=0d1117&color=38BDF8&line=0EA5E9&point=ffffff&area=true&hide_border=true" alt="Contribution graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RanaUsman7330/RanaUsman7330/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RanaUsman7330/RanaUsman7330/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/RanaUsman7330/RanaUsman7330/output/github-snake-dark.svg" />
+  </picture>
 </p>
 
 ---
