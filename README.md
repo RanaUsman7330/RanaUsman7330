@@ -1,55 +1,101 @@
-<!-- Banner -->
+<a href="https://mrusman.com">
+  <img src="https://raw.githubusercontent.com/RanaUsman7330/RanaUsman7330/main/assets/header.svg" width="100%" alt="Rana Usman, Laravel Developer, Real Estate Tech, Abu Dhabi" />
+</a>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rana%20Usman&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Developer%20%E2%80%A2%20Real%20Estate%20Web%20Platforms%20%E2%80%A2%20Abu%20Dhabi&descSize=18&descAlignY=58&animation=fadeIn" alt="Rana Usman banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=Building+real+estate+platforms+on+Laravel+%2B+MariaDB;Property+data+APIs+%E2%80%A2+Admin+panels+%E2%80%A2+Portals;1%2C200%2B+domains+%E2%80%A2+350%2B+live+websites;Designer+turned+developer+%F0%9F%8E%A8+%E2%86%92+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
-<!-- Typing animation -->
-<p align="center">
-  <a href="https://mrusman.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Laravel+%2B+MariaDB+Developer;Building+Real+Estate+Web+Platforms+%F0%9F%8F%99%EF%B8%8F;Digital+Marketing+%26+IT+Infrastructure;1%2C200%2B+Domains+%E2%80%A2+350%2B+Websites+Managed;6+Years+of+UI%2FUX+%26+Graphic+Design" alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- Quick links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/ranausman7330"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://mrusman.com"><img src="https://img.shields.io/badge/mrusman.com-111827?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="mrusman.com" /></a>
+  <a href="https://mrusman.com"><img src="https://img.shields.io/badge/mrusman.com-0B1220?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="mrusman.com" /></a>
   <a href="https://uaeprojects.com"><img src="https://img.shields.io/badge/uaeprojects.com-0F766E?style=for-the-badge&logo=homeassistant&logoColor=white" alt="uaeprojects.com" /></a>
-  <img src="https://komarev.com/ghpvc/?username=RanaUsman7330&style=for-the-badge&color=0e75b6&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=RanaUsman7330&style=for-the-badge&color=0B1220&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
----
+<br/>
 
 ## 👋 About Me
 
-I'm **Rana Usman**, a developer and business owner based in **Abu Dhabi, UAE 🇦🇪**. I build and run **real estate web platforms**: property portals, project listing sites and the APIs and admin tools behind them.
+<table>
+<tr>
+<td width="52%" valign="top">
 
-I started out with **six years as a UI/UX and graphic designer**, so I care as much about how a product looks and feels as about how it runs. Today I work across **digital marketing and IT infrastructure**, managing a large portfolio of domains and live websites.
+I'm **Rana Usman**, a developer and business owner based in **Abu Dhabi, UAE**. I build and run **real estate web platforms**: property portals, project listing sites, and the APIs and admin tools that power them.
 
-- 🏙️ **Building:** real estate platforms on **Laravel + MariaDB**
-- 🌐 **Managing:** **1,200+ domains** and **350+ published websites**
-- 🎨 **Background:** UI/UX & graphic design → digital operations
+I spent **six years as a UI/UX and graphic designer** before moving into development, so I care as much about how a product *looks and feels* as how it *runs*.
+
+Today I work across **digital marketing and IT infrastructure**, looking after a large portfolio of domains and live websites.
+
+- 🏙️ **Building:** real estate platforms on Laravel
+- 🌐 **Managing:** 1,200+ domains · 350+ websites
 - 🛠️ **Side project:** free web tools at [mrusman.com](https://mrusman.com)
-- 💬 **Ask me about:** Laravel, real estate tech, domains, hosting & DNS, web design
-- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/ranausman7330)
+- 💬 **Ask me about:** Laravel, property tech, DNS & hosting, UI/UX
 
----
+</td>
+<td width="48%" valign="top">
 
-## 🚀 What I'm Working On
+```php
+<?php
 
-| Project | What it is |
-| :-- | :-- |
-| 🏢 **[uaeprojects.com](https://uaeprojects.com)** | UAE real estate projects platform with its own commercial API |
-| 🧰 **[mrusman.com](https://mrusman.com)** | Personal site with free web tools and a custom admin panel |
+namespace App\Developers;
 
----
+class RanaUsman extends Developer
+{
+    public string $base = 'Abu Dhabi, UAE';
+
+    public array $stack = [
+        'backend'  => ['PHP', 'Laravel', 'REST APIs'],
+        'database' => ['MariaDB', 'MySQL'],
+        'frontend' => ['JavaScript', 'HTML', 'CSS'],
+        'infra'    => ['Linux', 'Nginx', 'Cloudflare'],
+        'design'   => ['Figma', 'Photoshop', 'Illustrator'],
+    ];
+
+    public function focus(): array
+    {
+        return [
+            'Real estate web platforms',
+            'Property data APIs',
+            'Fast, SEO-ready websites',
+        ];
+    }
+}
+```
+
+</td>
+</tr>
+</table>
+
+## 🚀 What I'm Building
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 [uaeprojects.com](https://uaeprojects.com)
+A UAE real estate projects platform with its own **commercial API**, powering other property sites with live project data.
+
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" /> <img src="https://img.shields.io/badge/REST_API-0EA5E9?style=flat-square&logo=fastapi&logoColor=white" />
+
+</td>
+<td width="50%" valign="top">
+
+### 🧰 [mrusman.com](https://mrusman.com)
+My personal site with a growing set of **free web tools** for developers and marketers, running on a custom admin panel.
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Admin_Panel-111827?style=flat-square&logo=databricks&logoColor=white" />
+
+</td>
+</tr>
+</table>
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,cs&perline=7" alt="Languages & frameworks" /><br/>
-  <img src="https://skillicons.dev/icons?i=wordpress,cloudflare,linux,nginx,git,github,vscode&perline=7" alt="Tools & infrastructure" /><br/>
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai&perline=7" alt="Design" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,cs&theme=dark" alt="Languages and frameworks" /><br/>
+  <img src="https://skillicons.dev/icons?i=wordpress,cloudflare,linux,nginx,git,github,vscode&theme=dark" alt="Tools and infrastructure" /><br/>
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark" alt="Design" />
 </p>
 
 <p align="center">
@@ -57,10 +103,20 @@ I started out with **six years as a UI/UX and graphic designer**, so I care as m
   <img src="https://img.shields.io/badge/REST_APIs-0EA5E9?style=flat-square&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/SEO-16A34A?style=flat-square&logo=googlesearchconsole&logoColor=white" />
   <img src="https://img.shields.io/badge/DNS_%26_Hosting-F59E0B?style=flat-square&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI%2FUX-A855F7?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI%2FUX_Design-A855F7?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
----
+## 🏙️ My Contribution Skyline
+
+<p align="center"><i>A real estate developer's GitHub: every commit adds a floor.</i></p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RanaUsman7330/RanaUsman7330/main/profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RanaUsman7330/RanaUsman7330/main/profile-3d-contrib/profile-season-animate.svg" />
+    <img src="https://raw.githubusercontent.com/RanaUsman7330/RanaUsman7330/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution skyline" />
+  </picture>
+</p>
 
 ## 📊 GitHub Stats
 
@@ -74,7 +130,7 @@ I started out with **six years as a UI/UX and graphic designer**, so I care as m
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RanaUsman7330&theme=tokyonight&hide_border=true&background=0d1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=RanaUsman7330&theme=tokyonight&hide_border=true&background=0d1117&ring=38BDF8&fire=FBBF24&currStreakLabel=38BDF8" alt="GitHub streak" />
 </p>
 
 <p align="center">
@@ -85,9 +141,6 @@ I started out with **six years as a UI/UX and graphic designer**, so I care as m
   </picture>
 </p>
 
----
+<br/>
 
-<p align="center">
-  <i>"Good design is good business."</i><br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" alt="footer" />
-</p>
+<img src="https://raw.githubusercontent.com/RanaUsman7330/RanaUsman7330/main/assets/footer.svg" width="100%" alt="Thanks for visiting" />
