@@ -11,6 +11,7 @@
   <a href="https://mrusman.com"><img src="https://img.shields.io/badge/mrusman.com-0B1220?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="mrusman.com" /></a>
   <a href="https://uaeprojects.com"><img src="https://img.shields.io/badge/uaeprojects.com-0F766E?style=for-the-badge&logo=homeassistant&logoColor=white" alt="uaeprojects.com" /></a>
   <img src="https://komarev.com/ghpvc/?username=RanaUsman7330&style=for-the-badge&color=0B1220&label=PROFILE+VIEWS" alt="Profile views" />
+  <a href="https://paypal.me/MrUsman7330"><img src="https://img.shields.io/badge/Buy_me_a_coffee-PayPal-FFC439?style=for-the-badge&logo=paypal&logoColor=00457C&labelColor=00457C" alt="Buy me a coffee via PayPal" /></a>
 </p>
 
 <br/>
@@ -139,6 +140,16 @@ My personal site with a growing set of **free web tools** for developers and mar
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RanaUsman7330/RanaUsman7330/output/github-snake.svg" />
     <img alt="Contribution snake" src="https://raw.githubusercontent.com/RanaUsman7330/RanaUsman7330/output/github-snake-dark.svg" />
   </picture>
+</p>
+
+## ☕ Support My Work
+
+<p align="center">
+  I build and share <b>free web tools</b> at <a href="https://mrusman.com">mrusman.com</a>. If something I made saved you time, you can buy me a coffee. It keeps these tools free for everyone.
+</p>
+
+<p align="center">
+  <a href="https://paypal.me/MrUsman7330"><img src="https://img.shields.io/badge/%E2%98%95%20Buy%20me%20a%20coffee-PayPal-FFC439?style=for-the-badge&logo=paypal&logoColor=white&labelColor=00457C" height="40" alt="Buy me a coffee via PayPal" /></a>
 </p>
 
 <br/>
