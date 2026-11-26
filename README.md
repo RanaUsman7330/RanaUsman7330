@@ -1,9 +1,9 @@
 <a href="https://mrusman.com">
-  <img src="https://raw.githubusercontent.com/RanaUsman7330/RanaUsman7330/main/assets/header.svg" width="100%" alt="Rana Usman, Laravel Developer, Real Estate Tech, Abu Dhabi" />
+  <img src="https://raw.githubusercontent.com/RanaUsman7330/RanaUsman7330/main/assets/header.svg" width="100%" alt="Rana Usman, Technology, AI and Digital Systems Builder, Abu Dhabi" />
 </a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=Building+real+estate+platforms+on+Laravel+%2B+MariaDB;Property+data+APIs+%E2%80%A2+Admin+panels+%E2%80%A2+Portals;1%2C200%2B+domains+%E2%80%A2+350%2B+live+websites;Designer+turned+developer+%F0%9F%8E%A8+%E2%86%92+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=Building+web+platforms%2C+tools+and+automation;AI+%E2%80%A2+APIs+%E2%80%A2+Developer+tools+%E2%80%A2+Digital+systems;1%2C200%2B+domains+%E2%80%A2+350%2B+live+websites;Designer+turned+developer+%F0%9F%8E%A8+%E2%86%92+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -39,16 +39,16 @@ It comes out of the day-to-day work of looking after a large domain portfolio. [
 <tr>
 <td width="52%" valign="top">
 
-I'm **Rana Usman**, a developer and business owner based in **Abu Dhabi, UAE**. I build and run **real estate web platforms**: property portals, project listing sites, and the APIs and admin tools that power them.
+I'm **Rana Usman**, a developer and business owner based in **Abu Dhabi, UAE**. I build **web platforms, APIs, developer tools and automation**, from property portals and admin panels to open-source command-line tools.
 
 I spent **six years as a UI/UX and graphic designer** before moving into development, so I care as much about how a product *looks and feels* as how it *runs*.
 
-Today I work across **digital marketing and IT infrastructure**, looking after a large portfolio of domains and live websites.
+Today I work across **technology, digital marketing and IT infrastructure**, looking after a large portfolio of domains and live websites.
 
-- 🏙️ **Building:** real estate platforms on Laravel
+- 🏙️ **Building:** web platforms, APIs and tools (Laravel, Node.js)
 - 🌐 **Managing:** 1,200+ domains · 350+ websites
 - 🛠️ **Side project:** free web tools at [mrusman.com](https://mrusman.com)
-- 💬 **Ask me about:** Laravel, property tech, DNS & hosting, UI/UX
+- 💬 **Ask me about:** Laravel, APIs, automation, DNS & hosting, UI/UX
 
 </td>
 <td width="48%" valign="top">
@@ -73,8 +73,8 @@ class RanaUsman extends Developer
     public function focus(): array
     {
         return [
-            'Real estate web platforms',
-            'Property data APIs',
+            'Web platforms and APIs',
+            'Developer tools and automation',
             'Fast, SEO-ready websites',
         ];
     }
