@@ -16,6 +16,23 @@
 
 <br/>
 
+## 🧹 Open Source: domsweep
+
+<p>
+  <a href="https://www.npmjs.com/package/domsweep"><img src="https://img.shields.io/npm/v/domsweep?style=flat-square&color=CB3837&logo=npm&logoColor=white" alt="npm version" /></a>
+  <a href="https://github.com/RanaUsman7330/domsweep"><img src="https://img.shields.io/github/stars/RanaUsman7330/domsweep?style=flat-square&logo=github" alt="GitHub stars" /></a>
+  <img src="https://img.shields.io/badge/dependencies-0-16A34A?style=flat-square" alt="Zero dependencies" />
+  <img src="https://img.shields.io/badge/license-MIT-0EA5E9?style=flat-square" alt="MIT license" />
+</p>
+
+**[domsweep](https://github.com/RanaUsman7330/domsweep)** checks a whole domain portfolio in one command: DNS, SPF/DKIM/DMARC, SSL certificates and registration expiry, with one report sorted by what is most broken. No dependencies, no account, no API key.
+
+```bash
+npx domsweep example.com
+```
+
+It comes out of the day-to-day work of looking after a large domain portfolio. [Read the README](https://github.com/RanaUsman7330/domsweep#readme) or [open an issue](https://github.com/RanaUsman7330/domsweep/issues) if it misses something.
+
 ## 👋 About Me
 
 <table>
