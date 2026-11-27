@@ -16,7 +16,7 @@
 
 <br/>
 
-## 🧹 Open Source: domsweep
+## 🧹 Open Source: domsweep and websweep
 
 <p>
   <a href="https://www.npmjs.com/package/domsweep"><img src="https://img.shields.io/npm/v/domsweep?style=flat-square&color=CB3837&logo=npm&logoColor=white" alt="npm version" /></a>
@@ -32,6 +32,17 @@ npx domsweep example.com
 ```
 
 It comes out of the day-to-day work of looking after a large domain portfolio. [Read the README](https://github.com/RanaUsman7330/domsweep#readme) or [open an issue](https://github.com/RanaUsman7330/domsweep/issues) if it misses something.
+
+**[websweep](https://github.com/RanaUsman7330/websweep)** is the companion that checks what each domain actually serves: http/https, www, redirect chains, HSTS and parked pages. Same idea, one report for the whole list.
+
+<p>
+  <a href="https://www.npmjs.com/package/websweep"><img src="https://img.shields.io/npm/v/websweep?style=flat-square&color=CB3837&logo=npm&logoColor=white" alt="npm version" /></a>
+  <a href="https://github.com/RanaUsman7330/websweep"><img src="https://img.shields.io/github/stars/RanaUsman7330/websweep?style=flat-square&logo=github" alt="GitHub stars" /></a>
+</p>
+
+```bash
+npx websweep example.com
+```
 
 ## 👋 About Me
 
